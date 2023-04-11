@@ -1,0 +1,6 @@
+framework module boost {
+  umbrella header "Flipper-Boost-iOSX-umbrella.h"
+
+  export *
+  module * { export * }
+}

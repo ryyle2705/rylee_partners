@@ -1,0 +1,6 @@
+module Pods_Rylee_Partners {
+  umbrella header "Pods-Rylee_Partners-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module fmt {
+  umbrella header "Flipper-Fmt-umbrella.h"
+
+  export *
+  module * { export * }
+}
