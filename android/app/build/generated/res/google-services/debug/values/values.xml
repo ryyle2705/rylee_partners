@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">964606052594-e16jvkv55p41vbaud93ef7ce1s1lr8ee.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">964606052594</string>
+    <string name="google_api_key" translatable="false">AIzaSyA52WX4tWB1sTNXC6wgcerNXRqigUSrAy8</string>
+    <string name="google_app_id" translatable="false">1:964606052594:android:897984797cb53b7238e86b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA52WX4tWB1sTNXC6wgcerNXRqigUSrAy8</string>
+    <string name="google_storage_bucket" translatable="false">ryleeofficial-dcaaf.appspot.com</string>
+    <string name="project_id" translatable="false">ryleeofficial-dcaaf</string>
+</resources>

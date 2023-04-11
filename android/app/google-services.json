@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "964606052594",
+    "project_id": "ryleeofficial-dcaaf",
+    "storage_bucket": "ryleeofficial-dcaaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964606052594:android:897984797cb53b7238e86b",
+        "android_client_info": {
+          "package_name": "com.rylee_partners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964606052594-e16jvkv55p41vbaud93ef7ce1s1lr8ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA52WX4tWB1sTNXC6wgcerNXRqigUSrAy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964606052594-e16jvkv55p41vbaud93ef7ce1s1lr8ee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "964606052594-a1l13bp1d2331hk0ut12o22sv056aftu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Rylee-Partners"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
